@@ -6,8 +6,8 @@ import requests
 from prompt import prompt_pe_unauth, prompt_unauth  # 导入Prompt模板
 
 # ========== 配置项（只需要改这里！）==========
-GEMINI_API_KEY = "AIzaSyB5btl0bpVSjeRe6OQ878Jp_iOozcr-qiY"  # Google Gemini API Key
-GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"  # Gemini API URL
+GEMINI_API_KEY = "1"  # Google Gemini API Key
+GEMINI_API_URL = "h11"  # Gemini API URL
 PROXIES = {
     "http": "http://127.0.0.1:7890",
     "https": "http://127.0.0.1:7890"
