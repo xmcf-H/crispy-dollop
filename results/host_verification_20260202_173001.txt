@@ -1,0 +1,3101 @@
+域名绑定验证结果
+测试时间: 2026-02-02 17:30:01
+================================================================================
+
+域名: fuel-g7s.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://fuel-g7s.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: fuel-g7s.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 573 字符
+  内容哈希: c1402153cb551358
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 573 字符
+  内容哈希: c1402153cb551358
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: aoleqi.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://aoleqi.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: aoleqi.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ææµäº
+  内容长度: 176384 字符
+  内容哈希: e574a4b83bacf7b4
+
+[Hosts绑定访问]
+  标题: ææµäº
+  内容长度: 176384 字符
+  内容哈希: e574a4b83bacf7b4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: sanjiu.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://sanjiu.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: sanjiu.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ææµäº
+  内容长度: 4357 字符
+  内容哈希: e5587fdbcd1c68a5
+
+[Hosts绑定访问]
+  标题: ææµäº
+  内容长度: 4357 字符
+  内容哈希: e5587fdbcd1c68a5
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: yuanzu.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://yuanzu.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: yuanzu.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ææµäº
+  内容长度: 4357 字符
+  内容哈希: 9ce0e75c415ba023
+
+[Hosts绑定访问]
+  标题: ææµäº
+  内容长度: 4357 字符
+  内容哈希: 9ce0e75c415ba023
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: gto.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://gto.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: gto.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: shyj.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://shyj.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: shyj.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: è¾éå¸æèç©æµéå¢æéå¬å¸
+  内容长度: 3801 字符
+  内容哈希: c4d6341a08865fc5
+
+[Hosts绑定访问]
+  标题: è¾éå¸æèç©æµéå¢æéå¬å¸
+  内容长度: 3801 字符
+  内容哈希: c4d6341a08865fc5
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: apitestlg-public.e6gpshk.com
+绑定IP: 172.20.5.129
+正常访问URL: http://apitestlg-public.e6gpshk.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: apitestlg-public.e6gpshk.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: videot1-video.e6gpshk.com
+绑定IP: 172.20.5.129
+正常访问URL: http://videot1-video.e6gpshk.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: videot1-video.e6gpshk.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: slytms.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://slytms.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: slytms.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ai-link.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ai-link.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ai-link.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 连接魔方
+  内容长度: 608 字符
+  内容哈希: 6e8e648a3b70b719
+
+[Hosts绑定访问]
+  标题: 连接魔方
+  内容长度: 608 字符
+  内容哈希: 6e8e648a3b70b719
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: demo.api.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.api.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.api.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 14 字符
+  内容哈希: 9e70b06f3ec38812
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 14 字符
+  内容哈希: 9e70b06f3ec38812
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: sms.huoyunren.com
+绑定IP: 172.20.5.129
+正常访问URL: http://sms.huoyunren.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: sms.huoyunren.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 181 字符
+  内容哈希: a0a28e6872e15fc4
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 181 字符
+  内容哈希: a0a28e6872e15fc4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: dsp.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dsp.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dsp.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: uc.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://uc.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: uc.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: G7易流
+  内容长度: 1191 字符
+  内容哈希: 983da85ac9f29311
+
+[Hosts绑定访问]
+  标题: G7易流
+  内容长度: 1191 字符
+  内容哈希: 983da85ac9f29311
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: xinyu.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://xinyu.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: xinyu.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: outbound.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://outbound.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: outbound.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ntocc-public-ai.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ntocc-public-ai.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ntocc-public-ai.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ai-agent-public.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ai-agent-public.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ai-agent-public.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: vegamcp.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://vegamcp.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: vegamcp.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: uow-ai.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://uow-ai.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: uow-ai.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: mn-fdd-api-outter.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://mn-fdd-api-outter.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: mn-fdd-api-outter.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ç­¾ç½²æä»¶
+  内容长度: 2591 字符
+  内容哈希: 5e7b15996646440a
+
+[Hosts绑定访问]
+  标题: ç­¾ç½²æä»¶
+  内容长度: 2591 字符
+  内容哈希: 5e7b15996646440a
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: i-demo.g7.com.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://i-demo.g7.com.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: i-demo.g7.com.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: zhuoling-tms-dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://zhuoling-tms-dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: zhuoling-tms-dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: TMS
+  内容长度: 8051 字符
+  内容哈希: 47fbf9c1acddd47d
+
+[Hosts绑定访问]
+  标题: TMS
+  内容长度: 8051 字符
+  内容哈希: 47fbf9c1acddd47d
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: test.ctr.sfoutsourcing.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.ctr.sfoutsourcing.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.ctr.sfoutsourcing.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.zysd.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.zysd.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.zysd.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.wx.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.wx.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.wx.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.industry.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.industry.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.industry.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.hoaudc.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.hoaudc.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.hoaudc.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.gdl.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.gdl.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.gdl.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.dbmms.ctr.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.dbmms.ctr.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.dbmms.ctr.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.dbatoms.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.dbatoms.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.dbatoms.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.ane.ctr.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.ane.ctr.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.ane.ctr.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.resources.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.resources.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.resources.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.industry.project.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.industry.project.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.industry.project.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: costtruck-g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://costtruck-g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: costtruck-g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: truck.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://truck.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: truck.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.truck.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.truck.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.truck.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.joint.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.joint.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.joint.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.e-bidding.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.e-bidding.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.e-bidding.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ztzy-callback.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ztzy-callback.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ztzy-callback.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tms502.e6gpshk.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tms502.e6gpshk.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tms502.e6gpshk.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ææµäº
+  内容长度: 23509 字符
+  内容哈希: 2f9d1820f0f430d7
+
+[Hosts绑定访问]
+  标题: ææµäº
+  内容长度: 23509 字符
+  内容哈希: 2f9d1820f0f430d7
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: fuel.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://fuel.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: fuel.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: truck-oil.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://truck-oil.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: truck-oil.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: zygst.test.hbgszyht.com
+绑定IP: 172.20.5.129
+正常访问URL: http://zygst.test.hbgszyht.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: zygst.test.hbgszyht.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: è½¦éç®¡çç³»ç»
+  内容长度: 1892 字符
+  内容哈希: 838b9424e62c194f
+
+[Hosts绑定访问]
+  标题: è½¦éç®¡çç³»ç»
+  内容长度: 1892 字符
+  内容哈希: 838b9424e62c194f
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: oms.test.hbgszyht.com
+绑定IP: 172.20.5.129
+正常访问URL: http://oms.test.hbgszyht.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: oms.test.hbgszyht.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: æ§å æ²¹è¿è¥ç®¡çç³»ç»
+  内容长度: 2216 字符
+  内容哈希: 110d2928b4c65219
+
+[Hosts绑定访问]
+  标题: æ§å æ²¹è¿è¥ç®¡çç³»ç»
+  内容长度: 2216 字符
+  内容哈希: 110d2928b4c65219
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: hjy.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://hjy.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: hjy.test.chinawayltd.com)
+测试结果: ⚠ 内容不同 (hash不一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: æ§å æ²¹è¿è¥ç®¡çç³»ç»
+  内容长度: 2216 字符
+  内容哈希: 110d2928b4c65219
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: hjy.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://hjy.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: hjy.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: hjy.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://hjy.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: hjy.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.fuel.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.fuel.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.fuel.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tcard.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tcard.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tcard.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: å¾·é¦æç®¡å¡
+  内容长度: 3176 字符
+  内容哈希: e49d39949f09168a
+
+[Hosts绑定访问]
+  标题: å¾·é¦æç®¡å¡
+  内容长度: 3176 字符
+  内容哈希: e49d39949f09168a
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: sinosms.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://sinosms.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: sinosms.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: pda.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://pda.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: pda.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 
+  内容长度: 842 字符
+  内容哈希: ac33b199c50a3e05
+
+[Hosts绑定访问]
+  标题: 
+  内容长度: 842 字符
+  内容哈希: ac33b199c50a3e05
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: notify.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://notify.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: notify.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: foss-job.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://foss-job.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: foss-job.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: firstcard.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://firstcard.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: firstcard.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: å¸æºç
+  内容长度: 5127 字符
+  内容哈希: 91de98ca9c0ef75b
+
+[Hosts绑定访问]
+  标题: å¸æºç
+  内容长度: 5127 字符
+  内容哈希: 91de98ca9c0ef75b
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: desph5.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://desph5.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: desph5.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: desp-web.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://desp-web.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: desp-web.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: desp-api.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://desp-api.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: desp-api.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: adapter.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://adapter.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: adapter.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 85 字符
+  内容哈希: ece9a80f5944e40a
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 85 字符
+  内容哈希: ece9a80f5944e40a
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: fuel-g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://fuel-g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: fuel-g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.gas.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.gas.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.gas.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: gas.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://gas.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: gas.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 212 字符
+  内容哈希: 9d1df7b59e68a711
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 212 字符
+  内容哈希: 9d1df7b59e68a711
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: en-gas.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://en-gas.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: en-gas.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 212 字符
+  内容哈希: 9d1df7b59e68a711
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 212 字符
+  内容哈希: 9d1df7b59e68a711
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: gas.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://gas.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: gas.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tms502.e6xayf.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tms502.e6xayf.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tms502.e6xayf.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ææµäº
+  内容长度: 23509 字符
+  内容哈希: 2f9d1820f0f430d7
+
+[Hosts绑定访问]
+  标题: ææµäº
+  内容长度: 23509 字符
+  内容哈希: 2f9d1820f0f430d7
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: obillg7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://obillg7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: obillg7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 智能互联，成就卓越物流
+  内容长度: 27983 字符
+  内容哈希: 84d8dfc1cf3b1a41
+
+[Hosts绑定访问]
+  标题: 智能互联，成就卓越物流
+  内容长度: 27983 字符
+  内容哈希: 84d8dfc1cf3b1a41
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: xywlhy.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://xywlhy.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: xywlhy.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: Welcome to tengine!
+  内容长度: 555 字符
+  内容哈希: 4d527c4a0d8c71c8
+
+[Hosts绑定访问]
+  标题: Welcome to tengine!
+  内容长度: 555 字符
+  内容哈希: 4d527c4a0d8c71c8
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: ycx-dd.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ycx-dd.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ycx-dd.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: wxcallback.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://wxcallback.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: wxcallback.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: incamera.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://incamera.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: incamera.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: chat-assistant-voice-gateway.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://chat-assistant-voice-gateway.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: chat-assistant-voice-gateway.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ydtopen.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ydtopen.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ydtopen.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ydt.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ydt.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ydt.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 171 字符
+  内容哈希: ac72c531ea2b5b77
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 171 字符
+  内容哈希: ac72c531ea2b5b77
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: wxapi.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://wxapi.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: wxapi.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 161 字符
+  内容哈希: 02cc65d4c1007071
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 161 字符
+  内容哈希: 02cc65d4c1007071
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: tgmatch.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tgmatch.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tgmatch.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 100 字符
+  内容哈希: a12bced10167849a
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 100 字符
+  内容哈希: a12bced10167849a
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: h5-tgmatch.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://h5-tgmatch.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: h5-tgmatch.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 
+  内容长度: 2797 字符
+  内容哈希: 5cdb68b042e6b284
+
+[Hosts绑定访问]
+  标题: 
+  内容长度: 2797 字符
+  内容哈希: 5cdb68b042e6b284
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: auth-driver.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://auth-driver.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: auth-driver.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: sms.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://sms.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: sms.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 181 字符
+  内容哈希: a0a28e6872e15fc4
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 181 字符
+  内容哈希: a0a28e6872e15fc4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: g7screen.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7screen.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7screen.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: æ°æ®å¤§å±æºè½å°ä¸
+  内容长度: 1133 字符
+  内容哈希: 720f2e37b787dc65
+
+[Hosts绑定访问]
+  标题: æ°æ®å¤§å±æºè½å°ä¸
+  内容长度: 1133 字符
+  内容哈希: 720f2e37b787dc65
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: test.wechat.truckmanager.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.wechat.truckmanager.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.wechat.truckmanager.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.truckmanager.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.truckmanager.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.truckmanager.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 309 字符
+  内容哈希: 6eae033e2b26d1de
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 309 字符
+  内容哈希: 6eae033e2b26d1de
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: operatecalendar.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://operatecalendar.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: operatecalendar.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: ç®¡è½¦æ¡£æ¡
+  内容长度: 731 字符
+  内容哈希: 3601357ed94736ce
+
+[Hosts绑定访问]
+  标题: ç®¡è½¦æ¡£æ¡
+  内容长度: 731 字符
+  内容哈希: 3601357ed94736ce
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: ai-demo.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ai-demo.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ai-demo.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: css-api-outer.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://css-api-outer.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: css-api-outer.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 60 字符
+  内容哈希: 182ef25d0d2acd90
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 60 字符
+  内容哈希: 182ef25d0d2acd90
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: css.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://css.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: css.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: å®¢æ·èªå©æå¡å¹³å°
+  内容长度: 2424 字符
+  内容哈希: b14f5b9e5474f4a7
+
+[Hosts绑定访问]
+  标题: å®¢æ·èªå©æå¡å¹³å°
+  内容长度: 2424 字符
+  内容哈希: b14f5b9e5474f4a7
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: g7n-order-center.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7n-order-center.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7n-order-center.test.chinawayltd.com)
+测试结果: ⚠ 内容不同 (hash不一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 103 字符
+  内容哈希: 40bcee3655c31596
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 103 字符
+  内容哈希: f4c1926403302978
+
+对比结果: 内容有差异 (3 行不同)
+--------------------------------------------------------------------------------
+
+域名: shippers.test.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://shippers.test.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: shippers.test.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 智能互联，成就卓越物流
+  内容长度: 27983 字符
+  内容哈希: 84d8dfc1cf3b1a41
+
+[Hosts绑定访问]
+  标题: 智能互联，成就卓越物流
+  内容长度: 27983 字符
+  内容哈希: 84d8dfc1cf3b1a41
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: load-wx.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://load-wx.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: load-wx.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: mp-g7ia.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://mp-g7ia.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: mp-g7ia.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 1794 字符
+  内容哈希: 3b5873019c7648a4
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 1794 字符
+  内容哈希: 3b5873019c7648a4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: test-tm-server.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test-tm-server.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test-tm-server.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tbs-ys.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tbs-ys.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tbs-ys.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: intelli-trailer.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://intelli-trailer.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: intelli-trailer.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: dev-tm.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dev-tm.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dev-tm.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 1794 字符
+  内容哈希: 3b5873019c7648a4
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 1794 字符
+  内容哈希: 3b5873019c7648a4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: demo.trailerg7.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.trailerg7.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.trailerg7.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo-tm-server.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo-tm-server.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo-tm-server.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: amc-server-g7ia.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://amc-server-g7ia.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: amc-server-g7ia.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: track-biz.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://track-biz.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: track-biz.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: load-app.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://load-app.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: load-app.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: è½½é
+  内容长度: 2886 字符
+  内容哈希: 35a188bcc7497972
+
+[Hosts绑定访问]
+  标题: è½½é
+  内容长度: 2886 字符
+  内容哈希: 35a188bcc7497972
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: st-api.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://st-api.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: st-api.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: order-mobile.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://order-mobile.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: order-mobile.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 
+  内容长度: 2092 字符
+  内容哈希: de0e9550805980aa
+
+[Hosts绑定访问]
+  标题: 
+  内容长度: 2092 字符
+  内容哈希: de0e9550805980aa
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: gto.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://gto.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: gto.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: trailer-gto.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://trailer-gto.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: trailer-gto.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tm-server.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tm-server.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tm-server.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: rctest.inceptio.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://rctest.inceptio.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: rctest.inceptio.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: rctest-server.inceptio.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://rctest-server.inceptio.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: rctest-server.inceptio.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: www-test.jh-leasing.com
+绑定IP: 172.20.5.129
+正常访问URL: http://www-test.jh-leasing.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: www-test.jh-leasing.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.trailer-gto.jh-leasing.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.trailer-gto.jh-leasing.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.trailer-gto.jh-leasing.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo-gto.jh-leasing.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo-gto.jh-leasing.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo-gto.jh-leasing.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo-tbs.jh-leasing.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo-tbs.jh-leasing.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo-tbs.jh-leasing.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test-gto.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://test-gto.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: test-gto.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 
+  内容长度: 1579 字符
+  内容哈希: dda55e98542c3db2
+
+[Hosts绑定访问]
+  标题: 
+  内容长度: 1579 字符
+  内容哈希: dda55e98542c3db2
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: test-gto-server.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://test-gto-server.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: test-gto-server.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 59 字符
+  内容哈希: aa608c369bc2e895
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: mobile-wxtest.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://mobile-wxtest.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: mobile-wxtest.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: mobile-test.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://mobile-test.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: mobile-test.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 
+  内容长度: 2636 字符
+  内容哈希: e892022e53803ebc
+
+[Hosts绑定访问]
+  标题: 
+  内容长度: 2636 字符
+  内容哈希: e892022e53803ebc
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: demo.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo-gto.e-trailer.cn
+绑定IP: 172.20.5.129
+正常访问URL: http://demo-gto.e-trailer.cn
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo-gto.e-trailer.cn)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tms-cyt-public.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tms-cyt-public.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tms-cyt-public.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+[Hosts绑定访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: s-tms.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://s-tms.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: s-tms.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 财运通-货主端
+  内容长度: 606 字符
+  内容哈希: b43e16c64dfa1183
+
+[Hosts绑定访问]
+  标题: 财运通-货主端
+  内容长度: 606 字符
+  内容哈希: b43e16c64dfa1183
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: orderwaybill-glink-callback.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://orderwaybill-glink-callback.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: orderwaybill-glink-callback.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: notify-cyt.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://notify-cyt.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: notify-cyt.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 26 字符
+  内容哈希: 3f3b4ec67ce04d3a
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 26 字符
+  内容哈希: 3f3b4ec67ce04d3a
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: dr-tms.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dr-tms.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dr-tms.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+[Hosts绑定访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: web-ntocc.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://web-ntocc.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: web-ntocc.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: soul-bootstrap.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://soul-bootstrap.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: soul-bootstrap.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: demo.obill.g7s.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://demo.obill.g7s.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: demo.obill.g7s.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: tuyouqi-g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://tuyouqi-g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: tuyouqi-g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ntocc-om-extend.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ntocc-om-extend.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ntocc-om-extend.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: jiltbox-g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://jiltbox-g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: jiltbox-g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: wtms.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://wtms.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: wtms.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ntocc-callback.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ntocc-callback.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ntocc-callback.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ntocc-bff.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ntocc-bff.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ntocc-bff.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ntocc-apiendpoint.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ntocc-apiendpoint.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ntocc-apiendpoint.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: test.router.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://test.router.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: test.router.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7papay.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7papay.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7papay.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: Welcome to tengine!
+  内容长度: 555 字符
+  内容哈希: 4d527c4a0d8c71c8
+
+[Hosts绑定访问]
+  标题: Welcome to tengine!
+  内容长度: 555 字符
+  内容哈希: 4d527c4a0d8c71c8
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: mall-gateway.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://mall-gateway.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: mall-gateway.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: mnwx-g7s.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://mnwx-g7s.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: mnwx-g7s.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: h5-lss.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://h5-lss.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: h5-lss.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 物流安全系统
+  内容长度: 6151 字符
+  内容哈希: 62d328f34ff91b32
+
+[Hosts绑定访问]
+  标题: 物流安全系统
+  内容长度: 6151 字符
+  内容哈希: 62d328f34ff91b32
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: aibot-gateway.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://aibot-gateway.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: aibot-gateway.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: aibot-public.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://aibot-public.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: aibot-public.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: aibot-open.test.chinawayltd.comaibot-open.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://aibot-open.test.chinawayltd.comaibot-open.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: aibot-open.test.chinawayltd.comaibot-open.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: mn-cseal-server-outter.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://mn-cseal-server-outter.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: mn-cseal-server-outter.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: æ°å­ç­¾æ¶ç³»ç»-ç»å½
+  内容长度: 7557 字符
+  内容哈希: f673d08a336e14c4
+
+[Hosts绑定访问]
+  标题: æ°å­ç­¾æ¶ç³»ç»-ç»å½
+  内容长度: 7557 字符
+  内容哈希: f673d08a336e14c4
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: zhonghua-proxy-openapi-outter.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://zhonghua-proxy-openapi-outter.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: zhonghua-proxy-openapi-outter.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 未找到标题
+  内容长度: 247 字符
+  内容哈希: 8ac700e5a6ab69b7
+
+[Hosts绑定访问]
+  标题: 未找到标题
+  内容长度: 247 字符
+  内容哈希: 8ac700e5a6ab69b7
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: doraemon-outter.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://doraemon-outter.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: doraemon-outter.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: dfptest.e6gpshk.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dfptest.e6gpshk.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dfptest.e6gpshk.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: dfp.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dfp.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dfp.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: cts.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://cts.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: cts.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: csc.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://csc.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: csc.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: cp-kanban.dev.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://cp-kanban.dev.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: cp-kanban.dev.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: cts.demo.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://cts.demo.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: cts.demo.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7crm-api.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7crm-api.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7crm-api.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: jobcode-outer.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://jobcode-outer.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: jobcode-outer.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7crm-api-t2.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7crm-api-t2.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7crm-api-t2.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7crm-gateway.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7crm-gateway.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7crm-gateway.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7crm.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7crm.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7crm.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: å®¢æ·å³ç³»ç®¡çç³»ç»
+  内容长度: 11497 字符
+  内容哈希: 3649a19ee59e0c52
+
+[Hosts绑定访问]
+  标题: å®¢æ·å³ç³»ç®¡çç³»ç»
+  内容长度: 11497 字符
+  内容哈希: 3649a19ee59e0c52
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: crm-authority.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://crm-authority.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: crm-authority.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: dropbox-payment-open-service.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://dropbox-payment-open-service.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: dropbox-payment-open-service.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: g7-tms.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://g7-tms.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: g7-tms.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+[Hosts绑定访问]
+  标题: 财运通
+  内容长度: 17818 字符
+  内容哈希: a55f20f4f60ad018
+
+对比结果: 内容完全相同
+--------------------------------------------------------------------------------
+
+域名: qiji56.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://qiji56.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: qiji56.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: qiji56-h5-driver.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://qiji56-h5-driver.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: qiji56-h5-driver.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: ciot.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://ciot.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: ciot.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: qiji56-h5.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://qiji56-h5.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: qiji56-h5.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: qiji56-sync.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://qiji56-sync.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: qiji56-sync.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
+域名: qiji56-api.test.chinawayltd.com
+绑定IP: 172.20.5.129
+正常访问URL: http://qiji56-api.test.chinawayltd.com
+模拟Hosts访问URL: http://172.20.5.129 (Host: qiji56-api.test.chinawayltd.com)
+测试结果: ✓ 内容相同 (hash一致)
+
+[正常访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+[Hosts绑定访问]
+  标题: 访问失败
+  内容长度: 0 字符
+  内容哈希: N/A
+
+对比结果: 无法比较（至少一次访问失败）
+--------------------------------------------------------------------------------
+
